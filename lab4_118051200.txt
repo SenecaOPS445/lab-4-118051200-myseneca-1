@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: ishtiak
+    Linux system name: Ishtiaks-MacBook-Pro.local
+    Python executable: /opt/homebrew/opt/python@3.11/bin/python3.11
+    Python version: 3117
+    OS Platform: darwin
+    Working Directory: /Users/ishtiak/Desktop/ops/lab-4-118051200-myseneca-1
+    Start at: Fri Jun  7 23:01:38 2024
+=================================================================
